@@ -9,7 +9,6 @@ redirects = []
 [build]
 publish = "/workspace/projects/rotknopf"
 publishOrigin = "default"
-base = "/workspace/projects/rotknopf"
 
 [build.environment]
 
